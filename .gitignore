@@ -1,0 +1,21 @@
+# Instaladores y artefactos de IBM (licenciados, no redistribuibles)
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.done
+
+# Bitácoras y temporales
+*.log
+*.swp
+*~
+
+# Secretos y entorno local
+.env
+*.pem
+*.key
+
+# Sistema operativo / IDE
+.DS_Store
+.idea/
+.vscode/
